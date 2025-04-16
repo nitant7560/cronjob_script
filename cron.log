@@ -1,0 +1,182 @@
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email report sent:
+Website Status Report - 2025-04-10T06:00:02.248Z
+
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 11:45:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 12:00:01 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 12:15:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 12:30:01 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 12:45:01 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 01:00:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Thursday, 10 April 2025 at 01:15:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 10:45:14 am
+🔄 Checking websites...
+❌ https://google.com is DOWN
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 11:00:02 am
+🔄 Checking websites...
+❌ https://google.com is DOWN
+❌ https://example.com is DOWN
+❌ https://facebook.com is DOWN
+❌ Error sending email: Error: queryA ETIMEOUT smtp.gmail.com
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/callback_resolver:45:19) {
+  errno: undefined,
+  code: 'EDNS',
+  syscall: 'queryA',
+  hostname: 'smtp.gmail.com',
+  command: 'CONN'
+}
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 11:30:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 11:45:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 12:00:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 12:15:01 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 12:30:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 12:45:03 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Friday, 11 April 2025 at 01:00:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 10:45:15 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 11:00:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 11:15:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 11:30:02 am
+🔄 Checking websites...
+❌ No internet connection.
+📧 Email sent at Tuesday, 15 April 2025 at 11:47:25 am
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 11:47:30 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 12:00:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 12:15:02 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 12:30:01 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 12:45:02 pm
+🔄 Checking websites...
+❌ No internet connection.
+📧 Email sent at Tuesday, 15 April 2025 at 01:01:36 pm
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Tuesday, 15 April 2025 at 01:01:41 pm
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Wednesday, 16 April 2025 at 11:00:32 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Wednesday, 16 April 2025 at 11:15:05 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Wednesday, 16 April 2025 at 11:30:02 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Wednesday, 16 April 2025 at 11:45:01 am
+🔄 Checking websites...
+✅ https://google.com is UP
+✅ https://example.com is UP
+✅ https://facebook.com is UP
+📧 Email sent at Wednesday, 16 April 2025 at 12:00:02 pm
